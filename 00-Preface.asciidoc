@@ -1,6 +1,5 @@
 Hello Git!
 Modified
 PushTest
-ChapterTwoModification
 
 chapter 5
